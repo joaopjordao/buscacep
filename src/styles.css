@@ -79,6 +79,11 @@
     font-weight: bold;
 }
 
+.autoria{
+    color: #354047;
+    font-size: 12px;
+}
+
 @media (max-width: 620px){
     .title{
         font-size:60px;
@@ -92,6 +97,8 @@
         width: 80%;
         min-height: 250px;
     }
+
+    
 
 
 }
